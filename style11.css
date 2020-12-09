@@ -1,0 +1,44 @@
+@charset "utf-8";
+.contantre {
+    width: 1140px;
+    height: auto;
+}
+.header {
+    background-color: rgba(255,255,255,1.00);
+    width: 1040px;
+    height: 166px;
+}
+.header img  {
+}
+.nav {
+    background-color: rgba(123,77,78,1.00);
+    width: 1000px;
+    height: 70px;
+    margin-left: 11px;
+    text-decoration: none;
+}
+.nav a {
+    color: rgba(255,255,255,1.00);
+    padding-right: 40px;
+    padding-left: 40px;
+    font-size: x-large;
+    text-decoration: none;
+}
+.main {
+    text-align: center;
+    width: 1000px;
+    height: auto;
+    margin-top: 143px;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+.footeer {
+    width: 620px;
+    height: 70px;
+    background-color: rgba(154,150,150,1.00);
+    margin-left: 186px;
+}
+.footeer img {
+    margin-top: 6px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
